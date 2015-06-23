@@ -1,5 +1,5 @@
-# Scroll-8x16-con-Arduino-y-matrices-de-8x8
-Scroll 8x16 con Arduino y matrices de 8x8
+//# Scroll-8x16-con-Arduino-y-matrices-de-8x8
+//Scroll 8x16 con Arduino y matrices de 8x8
 /*
 PUBLIK SCROLL CON DOS MATRICES DE 8X8, PARA HACER UNA DE 8X16,
 SIN REGISTROS DE DESPLAZAMIENTO.
